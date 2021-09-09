@@ -33,6 +33,9 @@ vendor.iop.enable_uxe=0
 # Media
 media.settings.xml=/vendor/etc/media_profiles_vendor.xml
 
+# OEM Unlock reporting
+ro.oem_unlock_supported=1
+
 # Perf
 ro.vendor.qti.core_ctl_max_cpu=4
 ro.vendor.qti.core_ctl_min_cpu=2
