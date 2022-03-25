@@ -16,6 +16,24 @@
       "message": "Test: general pairing, in-call audio, a2dp, file sharing, hotspot?\n\nWhat else?",
       "revId": "1b4e6697012af9cb112845bc852689fcd54f0785",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "053257f9_aec7cc07",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-03-25T17:18:05Z",
+      "side": 1,
+      "message": "These all work",
+      "parentUuid": "3b65696c_5ca94242",
+      "revId": "1b4e6697012af9cb112845bc852689fcd54f0785",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
