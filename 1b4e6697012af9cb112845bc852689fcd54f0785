@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3b65696c_5ca94242",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-03-25T12:10:12Z",
+      "side": 1,
+      "message": "Test: general pairing, in-call audio, a2dp, file sharing, hotspot?\n\nWhat else?",
+      "revId": "1b4e6697012af9cb112845bc852689fcd54f0785",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
