@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3776dc23_46544763",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-03-25T12:11:58Z",
+      "side": 1,
+      "message": "This is the one I\u0027m not entirely sure about, but then again I don\u0027t see any other good way.\n\nIn general freezing platform level to match stock will only help.",
+      "revId": "3dcf708141e4eb5c4e8a359ad6392a6dcef8645c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
