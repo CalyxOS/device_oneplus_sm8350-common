@@ -1,0 +1,28 @@
+# Firmware from
+# 11.2.10.10.LE25AA North America / Global
+# 11.2.10.10.LE15AA North America / Global
+
+abl.img;AB
+splash.img;AB
+aop.img;AB
+bluetooth.img;AB
+cpucp.img;AB
+devcfg.img;AB
+dsp.img;AB
+featenabler.img;AB
+hyp.img;AB
+keymaster.img;AB
+modem.img;AB
+multiimgoem.img;AB
+oplusstanvbk.img;AB
+qupfw.img;AB
+shrm.img;AB
+tz.img;AB
+uefisecapp.img;AB
+vm-bootsys.img;AB
+xbl_config.img;AB
+xbl.img;AB
+vbmeta_vendor.img;AB
+imagefv.img;AB
+oplus_sec.img;AB
+qweslicstore.img;AB
