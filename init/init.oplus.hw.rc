@@ -6,15 +6,20 @@
 
 on property:ro.boot.rf_version=11
     setprop ro.boot.hardware.revision "CN"
+    setprop ro.boot.prjname "19825"
 
 on property:ro.boot.rf_version=12
     setprop ro.boot.hardware.revision "TMO"
+    setprop ro.boot.prjname "19825"
 
 on property:ro.boot.rf_version=13
     setprop ro.boot.hardware.revision "IN"
+    setprop ro.boot.prjname "19825"
 
 on property:ro.boot.rf_version=21
     setprop ro.boot.hardware.revision "EU"
+    setprop ro.boot.prjname "19825"
 
 on property:ro.boot.rf_version=22
     setprop ro.boot.hardware.revision "NA"
+    setprop ro.boot.prjname "19825"
