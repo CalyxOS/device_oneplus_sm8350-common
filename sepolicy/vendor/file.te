@@ -1,23 +1,21 @@
-# files
-type oem_file, file_type;
-type op1_file, file_type;
-type op2_file, file_type;
-type opf_file, file_type;
+# Alert Slider
+type vendor_proc_tri_state_key, fs_type, proc_type;
 
-# procfs
-type proc_direct_swappiness, fs_type, proc_type;
-type proc_swappiness, fs_type, proc_type;
-type proc_touchpanel, fs_type, proc_type;
-type proc_watermark_boost_factor, fs_type, proc_type;
+# Camera
+type vendor_persist_camera_file, file_type;
 
-# sysfs
-type sysfs_dbg, fs_type, sysfs_type;
-type sysfs_fod, fs_type, sysfs_type;
-type sysfs_fsc, fs_type, sysfs_type;
-type sysfs_fuse, fs_type, sysfs_type;
-type sysfs_memplus, fs_type, sysfs_type;
-type sysfs_ois_control, fs_type, sysfs_type;
-type sysfs_project_info, fs_type, sysfs_type;
-type sysfs_tof_control, fs_type, sysfs_type;
-type sysfs_tpd, fs_type, sysfs_type;
-type sysfs_tri_state_key, sysfs_type, fs_type;
+# Charging
+type vendor_proc_wireless, fs_type, proc_type;
+
+# Display
+type vendor_proc_display, fs_type, proc_type;
+
+# Engineering
+type vendor_persist_engineer_file, file_type;
+type vendor_proc_engineer, fs_type, proc_type;
+
+# Fingerprint
+type vendor_proc_fingerprint, fs_type, proc_type;
+
+# Versioning
+type vendor_proc_oplus_version, fs_type, proc_type;
